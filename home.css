@@ -25,4 +25,11 @@ h1 {
   margin-right: 8% !important;
 }
 
+.banner {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: 300px;
+}
+
 /*# sourceMappingURL=home.css.map */
