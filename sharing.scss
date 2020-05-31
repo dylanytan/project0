@@ -1,0 +1,20 @@
+body{
+  background-color: #c0faa7! important;
+}
+
+$speaker_font: 30px;
+$message_font: 24px;
+
+.speaker {
+  font-size: $speaker_font ! important;
+  font-weight: bold! important;
+  padding: 5px! important;
+  margin-left:45px;
+  margin-top: 30px;
+}
+
+.message {
+  font-size: $message_font! important;
+  margin-left:50px;
+  margin-bottom: 20px;
+}

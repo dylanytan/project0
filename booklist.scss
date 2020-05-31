@@ -1,0 +1,55 @@
+body{
+  background-color: #c0faa7! important;
+}
+
+
+$image_width: 12.5%;
+$year-size: 60px;
+$month-size: 40px;
+$title-size: 30px;
+$author-size: 26px;
+
+#stuff {
+  margin-left:100px;
+}
+
+.year {
+  padding: 20px;
+  font-size: $year-size;
+  margin-left: 5px;
+}
+
+.month{
+  font-size: $month-size;
+  font-weight: bold;
+  font: KaiTi;
+  margin-top: 40px;
+}
+
+.title {
+  font-size: $title-size;
+  margin-left: 20px;
+}
+
+.author {
+  margin-left: 50px;
+  font-size: $author-size;
+}
+
+.image {
+  display: block;
+  margin-right: 7.5%;
+  width: $image_width;
+  float: right;
+  margin-top: -100px;
+
+}
+
+.image2 {
+  display: block;
+  margin-right: 25%;
+  width:$image_width;
+  float: right;
+  margin-top: -100px;
+
+}

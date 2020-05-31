@@ -1,0 +1,19 @@
+body {
+  background-color: #c0faa7 !important;
+}
+
+.speaker {
+  font-size: 30px !important;
+  font-weight: bold !important;
+  padding: 5px !important;
+  margin-left: 45px;
+  margin-top: 30px;
+}
+
+.message {
+  font-size: 24px !important;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+/*# sourceMappingURL=sharing.css.map */

@@ -1,0 +1,28 @@
+body {
+  padding: 40px;
+  background-color: #c0faa7 !important;
+}
+
+h1 {
+  text-align: center !important;
+  font: KaiTi;
+}
+@media (min-width: 1000px) {
+  h1 {
+    font-size: 54px !important;
+  }
+}
+@media (max-width: 999px) {
+  h1 {
+    font-size: 36px !important;
+  }
+}
+
+#intro {
+  font-size: 24px !important;
+  padding: 2% !important;
+  margin-left: 8% !important;
+  margin-right: 8% !important;
+}
+
+/*# sourceMappingURL=home.css.map */

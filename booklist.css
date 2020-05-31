@@ -1,0 +1,48 @@
+body {
+  background-color: #c0faa7 !important;
+}
+
+#stuff {
+  margin-left: 100px;
+}
+
+.year {
+  padding: 20px;
+  font-size: 60px;
+  margin-left: 5px;
+}
+
+.month {
+  font-size: 40px;
+  font-weight: bold;
+  font: KaiTi;
+  margin-top: 40px;
+}
+
+.title {
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+.author {
+  margin-left: 50px;
+  font-size: 26px;
+}
+
+.image {
+  display: block;
+  margin-right: 7.5%;
+  width: 12.5%;
+  float: right;
+  margin-top: -100px;
+}
+
+.image2 {
+  display: block;
+  margin-right: 25%;
+  width: 12.5%;
+  float: right;
+  margin-top: -100px;
+}
+
+/*# sourceMappingURL=booklist.css.map */
